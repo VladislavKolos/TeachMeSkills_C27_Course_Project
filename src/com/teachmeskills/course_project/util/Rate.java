@@ -6,5 +6,5 @@ package com.teachmeskills.course_project.util;
  */
 public interface Rate {
     double EUR = 0.9172;
-    double GBP = 0.8444;
+    double GBR = 0.8444;
 }

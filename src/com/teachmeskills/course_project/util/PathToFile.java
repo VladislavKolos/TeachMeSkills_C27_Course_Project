@@ -8,8 +8,5 @@ public interface PathToFile {
     String PATH_TO_EXECUTION_LOG = "D:\\TMS\\TeachMeSkills_C27_Course_Project\\log\\execution_log\\executionLog.txt";
     String PATH_TO_FINAL_STATISTICS = "D:\\TMS\\TeachMeSkills_C27_Course_Project\\final_statistics\\finalStatistics.txt";
     String PATH_TO_INVALID_REPORT_FOLDER = "D:\\TMS\\TeachMeSkills_C27_Course_Project\\invalid_file";
-    String PATH_TO_CHECKS = "D:\\TMS\\data\\checks";
-    String PATH_TO_INVOICES = "D:\\TMS\\data\\invoices";
-    String PATH_TO_ORDERS = "D:\\TMS\\data\\orders";
 }
 

@@ -36,7 +36,7 @@ public class Session {
     private void setExpDate() {
         Calendar calendar = Calendar.getInstance();
         calendar.setTime(new Date());
-        calendar.add(Calendar.MINUTE, 1);
+        calendar.add(Calendar.MINUTE, 5);
 
         this.expDate = calendar.getTime();
     }
