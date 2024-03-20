@@ -22,6 +22,7 @@ public final class TotalParsingService {
         String outputFilePath = PathToFile.PATH_TO_FINAL_STATISTICS;
         try (BufferedWriter writer = new BufferedWriter(new FileWriter(outputFilePath, true))) {
             writer.write("\nThe total turnover for 2023 on checks, invoices and orders was: " + grandTotal + " $");
+            writer.write("\n");
         } catch (IOException e) {
             System.out.println("\nAn error occurred while accessing files and directories");
         } catch (Exception e) {
