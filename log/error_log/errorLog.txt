@@ -1,0 +1,48 @@
+[ERROR] -> 2024-03-21 16:30:29 -> Incorrect login and/or password
+	com.teachmeskills.course_project.session.LoginAndPasswordValidator.checkLoginAndPassword(LoginAndPasswordValidator.java:31)
+	com.teachmeskills.course_project.session.AuthorizationService.doAuth(AuthorizationService.java:20)
+	com.teachmeskills.course_project.runner.Runner.main(Runner.java:31)
+[ERROR] -> 2024-03-21 16:59:00 -> Incorrect login and/or password
+	com.teachmeskills.course_project.session.LoginAndPasswordValidator.checkLoginAndPassword(LoginAndPasswordValidator.java:32)
+	com.teachmeskills.course_project.session.AuthorizationService.doAuth(AuthorizationService.java:20)
+	com.teachmeskills.course_project.runner.Runner.main(Runner.java:31)
+[ERROR] -> 2024-03-21 17:08:09 -> Incorrect login and/or password
+	com.teachmeskills.course_project.session.LoginAndPasswordValidator.checkLoginAndPassword(LoginAndPasswordValidator.java:31)
+	com.teachmeskills.course_project.session.AuthorizationService.doAuth(AuthorizationService.java:20)
+	com.teachmeskills.course_project.runner.Runner.main(Runner.java:31)
+[ERROR] -> 2024-03-21 17:10:54 -> Incorrect login and/or password
+	com.teachmeskills.course_project.session.LoginAndPasswordValidator.checkLoginAndPassword(LoginAndPasswordValidator.java:31)
+	com.teachmeskills.course_project.session.AuthorizationService.doAuth(AuthorizationService.java:20)
+	com.teachmeskills.course_project.runner.Runner.main(Runner.java:31)
+[ERROR] -> 2024-03-21 17:13:44 -> Incorrect login and/or password
+	com.teachmeskills.course_project.session.LoginAndPasswordValidator.checkLoginAndPassword(LoginAndPasswordValidator.java:31)
+	com.teachmeskills.course_project.session.AuthorizationService.doAuth(AuthorizationService.java:20)
+	com.teachmeskills.course_project.runner.Runner.main(Runner.java:31)
+[ERROR] -> 2024-03-21 17:13:59 -> Incorrect login and/or password
+	com.teachmeskills.course_project.session.LoginAndPasswordValidator.checkLoginAndPassword(LoginAndPasswordValidator.java:31)
+	com.teachmeskills.course_project.session.AuthorizationService.doAuth(AuthorizationService.java:20)
+	com.teachmeskills.course_project.runner.Runner.main(Runner.java:31)
+[ERROR] -> 2024-03-21 17:14:08 -> Incorrect login and/or password
+	com.teachmeskills.course_project.session.LoginAndPasswordValidator.checkLoginAndPassword(LoginAndPasswordValidator.java:31)
+	com.teachmeskills.course_project.session.AuthorizationService.doAuth(AuthorizationService.java:20)
+	com.teachmeskills.course_project.runner.Runner.main(Runner.java:31)
+[ERROR] -> 2024-03-21 17:17:24 -> Incorrect login and/or password
+	com.teachmeskills.course_project.session.LoginAndPasswordValidator.checkLoginAndPassword(LoginAndPasswordValidator.java:31)
+	com.teachmeskills.course_project.session.AuthorizationService.doAuth(AuthorizationService.java:20)
+	com.teachmeskills.course_project.runner.Runner.main(Runner.java:31)
+[ERROR] -> 2024-03-21 17:17:39 -> Incorrect login and/or password
+	com.teachmeskills.course_project.session.LoginAndPasswordValidator.checkLoginAndPassword(LoginAndPasswordValidator.java:31)
+	com.teachmeskills.course_project.session.AuthorizationService.doAuth(AuthorizationService.java:20)
+	com.teachmeskills.course_project.runner.Runner.main(Runner.java:31)
+[ERROR] -> 2024-03-21 17:17:48 -> Incorrect login and/or password
+	com.teachmeskills.course_project.session.LoginAndPasswordValidator.checkLoginAndPassword(LoginAndPasswordValidator.java:31)
+	com.teachmeskills.course_project.session.AuthorizationService.doAuth(AuthorizationService.java:20)
+	com.teachmeskills.course_project.runner.Runner.main(Runner.java:31)
+[ERROR] -> 2024-03-21 17:23:48 -> Incorrect login and/or password
+	com.teachmeskills.course_project.session.LoginAndPasswordValidator.checkLoginAndPassword(LoginAndPasswordValidator.java:31)
+	com.teachmeskills.course_project.session.AuthorizationService.doAuth(AuthorizationService.java:20)
+	com.teachmeskills.course_project.runner.Runner.main(Runner.java:31)
+[ERROR] -> 2024-03-21 18:29:16 -> Incorrect login and/or password
+	com.teachmeskills.course_project.session.LoginAndPasswordValidator.checkLoginAndPassword(LoginAndPasswordValidator.java:31)
+	com.teachmeskills.course_project.session.AuthorizationService.doAuth(AuthorizationService.java:20)
+	com.teachmeskills.course_project.runner.Runner.main(Runner.java:31)
