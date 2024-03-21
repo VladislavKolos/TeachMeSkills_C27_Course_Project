@@ -11,7 +11,7 @@ import java.util.Date;
 
 /**
  * Class contains private constructor which does not allow creating objects of this class
- * contains static method "writeFileProcess"(input parameter - our session) method for records of general summary statistics for all types of documents for 2023
+ * contains static method "writeFileProcess"(input parameter - our session) - method for records of general summary statistics for all types of documents for 2023
  * the "logInfo" and "logError" methods of the "Logger" class are called to write information to "eventLog.txt" and "errorLog.txt" respectively.
  */
 public final class TotalParsingService {
