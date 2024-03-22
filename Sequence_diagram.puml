@@ -1,0 +1,26 @@
+@startuml
+Client -> Runner: main(String[] args)
+Runner -> AuthorizationService: doAuth(login, password)
+AuthorizationService -> LoginAndPasswordValidator: checkLoginAndPassword(login, password)
+LoginAndPasswordValidator -> Coder: codeLogin(), codePassword(), addSalt()
+Coder --> LoginAndPasswordValidator: Encoded Login and Password
+LoginAndPasswordValidator --> AuthorizationService: Valid Login and Password
+AuthorizationService -> Session: Session()
+Session --> AuthorizationService: AccessToken, ExpDate
+AuthorizationService --> Runner: Session object
+Runner -> ChecksParsingService: doChecksFileProcess(session)
+ChecksParsingService --> Logger: logInfo(Date date, String infoMessage)
+Logger --> Runner: Log message saved to eventLog.txt
+Runner -> InvoicesParsingService: doInvoicesFileProcess(session)
+InvoicesParsingService --> Logger: logInfo(Date date, String infoMessage)
+Logger --> Runner: Log message saved to eventLog.txt
+Runner -> OrdersParsingService: doOrdersFileProcess(session)
+OrdersParsingService --> Logger: logInfo(Date date, String infoMessage)
+Logger --> Runner: Log message saved to eventLog.txt
+Runner -> TotalParsingService: writeFileProcess(session)
+TotalParsingService --> Logger: logInfo(Date date, String infoMessage)
+Logger --> Runner: Log message saved to eventLog.txt
+Runner -> Logger: logInfo(Date date, String infoMessage)
+Logger --> Runner: Log message saved to eventLog.txt
+@enduml
+

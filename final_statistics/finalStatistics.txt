@@ -22,3 +22,7 @@ Total amount of checks in dollars was: 18012.84 $
 Total amount of invoices in dollars was: 8469.41 $
 Total amount of orders in dollars was: 23558.88 $
 The total turnover for 2023 on checks, invoices and orders was: 50041.13 $
+Total amount of checks in dollars was: 18012.84 $
+Total amount of invoices in dollars was: 8469.41 $
+Total amount of orders in dollars was: 23558.88 $
+The total turnover for 2023 on checks, invoices and orders was: 50041.13 $

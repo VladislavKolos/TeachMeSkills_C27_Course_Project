@@ -1,0 +1,122 @@
+@startuml
+
+class Coder {
+    - Coder()
+    + codeLogin(): String
+    + codePassword(): String
+    + addSalt(): String
+    + decodeLogin(encodedLogin: String): String
+    + decodePassword(encodedPassword: String): String
+}
+
+class AuthorizationService {
+    - AuthorizationService()
+    + doAuth(login: String, password: String): Session
+}
+
+class LoginAndPasswordValidator {
+    - LoginAndPasswordValidator()
+    + checkLoginAndPassword(login: String, password: String): boolean
+}
+
+class Session {
+    - accessToken: String
+    - expDate: Date
+    + Session()
+    + isSessionAlive(): boolean
+    + setAccessToken()
+    + setExpDate()
+}
+
+class StorageMock {
+    - login: String
+    - password: String
+    + getLogin(): String
+    + getPassword(): String
+}
+
+class WrongLoginAndPasswordException {
+    - message: String
+    + WrongLoginAndPasswordException(message: String)
+}
+
+class ChecksParsingService {
+    - ChecksParsingService()
+    + doChecksFileProcess(session: Session)
+}
+
+class InvoicesParsingService {
+    - InvoicesParsingService()
+    + doInvoicesFileProcess(session: Session)
+}
+
+class OrdersParsingService {
+    - OrdersParsingService()
+    + doOrdersFileProcess(session: Session)
+}
+
+class TotalParsingService {
+    - TotalParsingService()
+    + writeFileProcess(session: Session)
+}
+
+abstract class Document {
+    - documentFormat: String
+    + getDocumentFormat(): String
+    + setDocumentFormat(documentFormat: String)
+    + toString(): String
+}
+
+class Check {
+    - name: String
+    - framework: String
+    + getName(): String
+    + setName(name: String)
+    + getFramework(): String
+    + setFramework(framework: String)
+    + toString(): String
+}
+
+class Invoice {
+    - name: String
+    - framework: String
+    + getName(): String
+    + setName(name: String)
+    + getFramework(): String
+    + setFramework(framework: String)
+    + toString(): String
+}
+
+class Order {
+    - name: String
+    - framework: String
+    + getName(): String
+    + setName(name: String)
+    + getFramework(): String
+    + setFramework(framework: String)
+    + toString(): String
+}
+
+interface PathToFile {
+    + PATH_TO_ERROR_LOG: String
+    + PATH_TO_EVENT_LOG: String
+    + PATH_TO_FINAL_STATISTICS: String
+    + PATH_TO_INVALID_REPORT_FOLDER: String
+}
+
+interface Rate {
+    + EUR: double
+    + GBR: double
+}
+
+class Logger {
+    - Logger()
+    + logInfo(date: Date, infoMessage: String)
+    + logError(date: Date, errorMessage: String, exception: Exception)
+}
+
+class Runner {
+    + main(args: String[])
+}
+
+@enduml

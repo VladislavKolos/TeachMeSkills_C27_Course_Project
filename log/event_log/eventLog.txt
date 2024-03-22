@@ -1634,3 +1634,202 @@
 [INFO] -> 2024-03-21 18:31:28 -> A message was displayed on the console about the end of the program and the end of the session
 [INFO] -> 2024-03-21 18:31:28 -> Program execution is finished
 [INFO] -> 2024-03-21 18:31:28 -> Session ended
+[INFO] -> 2024-03-22 15:09:43 -> The program has started
+[INFO] -> 2024-03-22 15:09:43 -> A new session has started
+[INFO] -> 2024-03-22 15:09:43 -> A message was displayed on the console about the start of the program and a request to enter a login and password
+[INFO] -> 2024-03-22 15:09:51 -> Login entered for authorization in the program
+[INFO] -> 2024-03-22 15:09:58 -> Password entered for authorization in the program
+[INFO] -> 2024-03-22 15:09:58 -> The login and password were taken from the storage "StorageMock"
+[INFO] -> 2024-03-22 15:09:58 -> Login and password decoded
+[INFO] -> 2024-03-22 15:09:58 -> Login and password verification completed successfully
+[INFO] -> 2024-03-22 15:09:58 -> A message was displayed on the console that the user was successfully authorized in the system. New session started
+[INFO] -> 2024-03-22 15:09:58 -> The "checkLoginAndPassword" method is called with input parameters login and password to check the login and password
+[INFO] -> 2024-03-22 15:09:58 -> Access Token has been set
+[INFO] -> 2024-03-22 15:09:58 -> The end date of the session has been set
+[INFO] -> 2024-03-22 15:09:58 -> A session object is created and the "doAuth" method is called for authorization in the program. The input method accepts the following parameters: entered login and password
+[INFO] -> 2024-03-22 15:09:58 -> The variable "total" is declared and initialized
+[INFO] -> 2024-03-22 15:09:58 -> The variable "checksTotal" is declared and initialized
+[INFO] -> 2024-03-22 15:09:58 -> Checks have been passed to see if the session exists and is alive. A message was displayed on the console asking you to enter the path to the folder with checks
+[INFO] -> 2024-03-22 15:10:07 -> Entered the path to the folder with checks
+[INFO] -> 2024-03-22 15:10:07 -> A collection of strings of the "ArrayList<>" type has been created to store processed information from valid files in the folder with checks
+[INFO] -> 2024-03-22 15:10:07 -> A folder "invalidChecksFiles" has been created in the "invalid_file" folder to store invalid check files
+[INFO] -> 2024-03-22 15:10:07 -> Checks have been made to see if the files exist in the "checks" folder and if they are actually files
+[INFO] -> 2024-03-22 15:10:07 -> All files have been checked for validity
+[INFO] -> 2024-03-22 15:10:07 -> Information has been read from valid files and added to the "textFilesContent" collection
+[INFO] -> 2024-03-22 15:10:07 -> Checks have been made to see if the files exist in the "checks" folder and if they are actually files
+[INFO] -> 2024-03-22 15:10:07 -> All files have been checked for validity
+[INFO] -> 2024-03-22 15:10:07 -> Information has been read from valid files and added to the "textFilesContent" collection
+[INFO] -> 2024-03-22 15:10:07 -> Checks have been made to see if the files exist in the "checks" folder and if they are actually files
+[INFO] -> 2024-03-22 15:10:07 -> All files have been checked for validity
+[INFO] -> 2024-03-22 15:10:07 -> Information has been read from valid files and added to the "textFilesContent" collection
+[INFO] -> 2024-03-22 15:10:07 -> Checks have been made to see if the files exist in the "checks" folder and if they are actually files
+[INFO] -> 2024-03-22 15:10:07 -> All files have been checked for validity
+[INFO] -> 2024-03-22 15:10:07 -> Information has been read from valid files and added to the "textFilesContent" collection
+[INFO] -> 2024-03-22 15:10:07 -> Checks have been made to see if the files exist in the "checks" folder and if they are actually files
+[INFO] -> 2024-03-22 15:10:07 -> All files have been checked for validity
+[INFO] -> 2024-03-22 15:10:07 -> Information has been read from valid files and added to the "textFilesContent" collection
+[INFO] -> 2024-03-22 15:10:07 -> Checks have been made to see if the files exist in the "checks" folder and if they are actually files
+[INFO] -> 2024-03-22 15:10:07 -> All files have been checked for validity
+[INFO] -> 2024-03-22 15:10:07 -> Information has been read from valid files and added to the "textFilesContent" collection
+[INFO] -> 2024-03-22 15:10:07 -> Checks have been made to see if the files exist in the "checks" folder and if they are actually files
+[INFO] -> 2024-03-22 15:10:07 -> All files have been checked for validity
+[INFO] -> 2024-03-22 15:10:07 -> Information has been read from valid files and added to the "textFilesContent" collection
+[INFO] -> 2024-03-22 15:10:07 -> Checks have been made to see if the files exist in the "checks" folder and if they are actually files
+[INFO] -> 2024-03-22 15:10:07 -> All files have been checked for validity
+[INFO] -> 2024-03-22 15:10:07 -> Information has been read from valid files and added to the "textFilesContent" collection
+[INFO] -> 2024-03-22 15:10:07 -> Checks have been made to see if the files exist in the "checks" folder and if they are actually files
+[INFO] -> 2024-03-22 15:10:07 -> All files have been checked for validity
+[INFO] -> 2024-03-22 15:10:07 -> Information has been read from valid files and added to the "textFilesContent" collection
+[INFO] -> 2024-03-22 15:10:07 -> Checks have been made to see if the files exist in the "checks" folder and if they are actually files
+[INFO] -> 2024-03-22 15:10:07 -> All files have been checked for validity
+[INFO] -> 2024-03-22 15:10:07 -> Information has been read from valid files and added to the "textFilesContent" collection
+[INFO] -> 2024-03-22 15:10:07 -> Checks have been made to see if the files exist in the "checks" folder and if they are actually files
+[INFO] -> 2024-03-22 15:10:07 -> All files have been checked for validity
+[INFO] -> 2024-03-22 15:10:07 -> Information has been read from valid files and added to the "textFilesContent" collection
+[INFO] -> 2024-03-22 15:10:07 -> Checks have been made to see if the files exist in the "checks" folder and if they are actually files
+[INFO] -> 2024-03-22 15:10:07 -> All files have been checked for validity
+[INFO] -> 2024-03-22 15:10:07 -> Information has been read from valid files and added to the "textFilesContent" collection
+[INFO] -> 2024-03-22 15:10:07 -> An object of the "Pattern" class has been created to compose a regular expression
+[INFO] -> 2024-03-22 15:10:07 -> The total amount for each valid file from the folder with checks was taken and added together and recorded in the "checksTotal" variable
+[INFO] -> 2024-03-22 15:10:07 -> The total turnover of all checks is recorded in the final statistics
+[INFO] -> 2024-03-22 15:10:07 -> A message was displayed on the console about which path the result was written to
+[INFO] -> 2024-03-22 15:10:07 -> The variable "gbrTotal" is declared and initialized
+[INFO] -> 2024-03-22 15:10:07 -> The variable "otherTotal" is declared and initialized
+[INFO] -> 2024-03-22 15:10:07 -> The variable "combinedInvoicesTotal" is declared and initialized
+[INFO] -> 2024-03-22 15:10:07 -> Checks have been passed to see if the session exists and is alive. A message was displayed on the console asking you to enter the path to the folder with invoices
+[INFO] -> 2024-03-22 15:10:14 -> Entered the path to the folder with invoices
+[INFO] -> 2024-03-22 15:10:14 -> A collection of strings of the "ArrayList<>" type has been created to store processed information from valid files in the folder with invoices
+[INFO] -> 2024-03-22 15:10:14 -> A folder "invalidInvoicesFiles" has been created in the "invalid_file" folder to store invalid invoice files
+[INFO] -> 2024-03-22 15:10:14 -> Checks have been made to see if the files exist in the "invoices" folder and if they are actually files
+[INFO] -> 2024-03-22 15:10:14 -> All files have been checked for validity
+[INFO] -> 2024-03-22 15:10:14 -> Information has been read from valid files and added to the "textFilesContent" collection
+[INFO] -> 2024-03-22 15:10:14 -> Checks have been made to see if the files exist in the "invoices" folder and if they are actually files
+[INFO] -> 2024-03-22 15:10:14 -> All files have been checked for validity
+[INFO] -> 2024-03-22 15:10:14 -> Information has been read from valid files and added to the "textFilesContent" collection
+[INFO] -> 2024-03-22 15:10:14 -> Checks have been made to see if the files exist in the "invoices" folder and if they are actually files
+[INFO] -> 2024-03-22 15:10:14 -> All files have been checked for validity
+[INFO] -> 2024-03-22 15:10:14 -> Information has been read from valid files and added to the "textFilesContent" collection
+[INFO] -> 2024-03-22 15:10:14 -> Checks have been made to see if the files exist in the "invoices" folder and if they are actually files
+[INFO] -> 2024-03-22 15:10:14 -> All files have been checked for validity
+[INFO] -> 2024-03-22 15:10:14 -> Information has been read from valid files and added to the "textFilesContent" collection
+[INFO] -> 2024-03-22 15:10:14 -> Checks have been made to see if the files exist in the "invoices" folder and if they are actually files
+[INFO] -> 2024-03-22 15:10:14 -> All files have been checked for validity
+[INFO] -> 2024-03-22 15:10:14 -> Information has been read from valid files and added to the "textFilesContent" collection
+[INFO] -> 2024-03-22 15:10:14 -> Checks have been made to see if the files exist in the "invoices" folder and if they are actually files
+[INFO] -> 2024-03-22 15:10:14 -> All files have been checked for validity
+[INFO] -> 2024-03-22 15:10:14 -> Information has been read from valid files and added to the "textFilesContent" collection
+[INFO] -> 2024-03-22 15:10:14 -> Checks have been made to see if the files exist in the "invoices" folder and if they are actually files
+[INFO] -> 2024-03-22 15:10:14 -> All files have been checked for validity
+[INFO] -> 2024-03-22 15:10:14 -> Information has been read from valid files and added to the "textFilesContent" collection
+[INFO] -> 2024-03-22 15:10:14 -> Checks have been made to see if the files exist in the "invoices" folder and if they are actually files
+[INFO] -> 2024-03-22 15:10:14 -> All files have been checked for validity
+[INFO] -> 2024-03-22 15:10:14 -> Information has been read from valid files and added to the "textFilesContent" collection
+[INFO] -> 2024-03-22 15:10:14 -> Checks have been made to see if the files exist in the "invoices" folder and if they are actually files
+[INFO] -> 2024-03-22 15:10:14 -> All files have been checked for validity
+[INFO] -> 2024-03-22 15:10:14 -> Information has been read from valid files and added to the "textFilesContent" collection
+[INFO] -> 2024-03-22 15:10:14 -> Checks have been made to see if the files exist in the "invoices" folder and if they are actually files
+[INFO] -> 2024-03-22 15:10:14 -> All files have been checked for validity
+[INFO] -> 2024-03-22 15:10:14 -> Information has been read from valid files and added to the "textFilesContent" collection
+[INFO] -> 2024-03-22 15:10:14 -> Checks have been made to see if the files exist in the "invoices" folder and if they are actually files
+[INFO] -> 2024-03-22 15:10:14 -> All files have been checked for validity
+[INFO] -> 2024-03-22 15:10:14 -> Information has been read from valid files and added to the "textFilesContent" collection
+[INFO] -> 2024-03-22 15:10:14 -> Checks have been made to see if the files exist in the "invoices" folder and if they are actually files
+[INFO] -> 2024-03-22 15:10:14 -> All files have been checked for validity
+[INFO] -> 2024-03-22 15:10:14 -> Information has been read from valid files and added to the "textFilesContent" collection
+[INFO] -> 2024-03-22 15:10:14 -> Checks have been made to see if the files exist in the "invoices" folder and if they are actually files
+[INFO] -> 2024-03-22 15:10:14 -> All files have been checked for validity
+[INFO] -> 2024-03-22 15:10:14 -> Information has been read from valid files and added to the "textFilesContent" collection
+[INFO] -> 2024-03-22 15:10:14 -> Checks have been made to see if the files exist in the "invoices" folder and if they are actually files
+[INFO] -> 2024-03-22 15:10:14 -> All files have been checked for validity
+[INFO] -> 2024-03-22 15:10:14 -> Information has been read from valid files and added to the "textFilesContent" collection
+[INFO] -> 2024-03-22 15:10:14 -> Checks have been made to see if the files exist in the "invoices" folder and if they are actually files
+[INFO] -> 2024-03-22 15:10:14 -> All files have been checked for validity
+[INFO] -> 2024-03-22 15:10:14 -> Information has been read from valid files and added to the "textFilesContent" collection
+[INFO] -> 2024-03-22 15:10:14 -> Checks have been made to see if the files exist in the "invoices" folder and if they are actually files
+[INFO] -> 2024-03-22 15:10:14 -> All files have been checked for validity
+[INFO] -> 2024-03-22 15:10:14 -> Information has been read from valid files and added to the "textFilesContent" collection
+[INFO] -> 2024-03-22 15:10:14 -> Checks have been made to see if the files exist in the "invoices" folder and if they are actually files
+[INFO] -> 2024-03-22 15:10:14 -> All files have been checked for validity
+[INFO] -> 2024-03-22 15:10:14 -> Information has been read from valid files and added to the "textFilesContent" collection
+[INFO] -> 2024-03-22 15:10:14 -> Checks have been made to see if the files exist in the "invoices" folder and if they are actually files
+[INFO] -> 2024-03-22 15:10:14 -> All files have been checked for validity
+[INFO] -> 2024-03-22 15:10:14 -> Information has been read from valid files and added to the "textFilesContent" collection
+[INFO] -> 2024-03-22 15:10:14 -> Checks have been made to see if the files exist in the "invoices" folder and if they are actually files
+[INFO] -> 2024-03-22 15:10:14 -> All files have been checked for validity
+[INFO] -> 2024-03-22 15:10:14 -> Information has been read from valid files and added to the "textFilesContent" collection
+[INFO] -> 2024-03-22 15:10:14 -> Checks have been made to see if the files exist in the "invoices" folder and if they are actually files
+[INFO] -> 2024-03-22 15:10:14 -> All files have been checked for validity
+[INFO] -> 2024-03-22 15:10:14 -> Information has been read from valid files and added to the "textFilesContent" collection
+[INFO] -> 2024-03-22 15:10:14 -> Checks have been made to see if the files exist in the "invoices" folder and if they are actually files
+[INFO] -> 2024-03-22 15:10:14 -> All files have been checked for validity
+[INFO] -> 2024-03-22 15:10:14 -> Information has been read from valid files and added to the "textFilesContent" collection
+[INFO] -> 2024-03-22 15:10:14 -> Checks have been made to see if the files exist in the "invoices" folder and if they are actually files
+[INFO] -> 2024-03-22 15:10:14 -> All files have been checked for validity
+[INFO] -> 2024-03-22 15:10:14 -> Information has been read from valid files and added to the "textFilesContent" collection
+[INFO] -> 2024-03-22 15:10:14 -> Checks have been made to see if the files exist in the "invoices" folder and if they are actually files
+[INFO] -> 2024-03-22 15:10:14 -> All files have been checked for validity
+[INFO] -> 2024-03-22 15:10:14 -> Information has been read from valid files and added to the "textFilesContent" collection
+[INFO] -> 2024-03-22 15:10:14 -> Checks have been made to see if the files exist in the "invoices" folder and if they are actually files
+[INFO] -> 2024-03-22 15:10:14 -> All files have been checked for validity
+[INFO] -> 2024-03-22 15:10:14 -> Information has been read from valid files and added to the "textFilesContent" collection
+[INFO] -> 2024-03-22 15:10:14 -> An objects of the "Pattern" class has been created to compose a regular expression
+[INFO] -> 2024-03-22 15:10:14 -> The total amount for each valid file from the folder with invoices was taken and added together and recorded in the "combinedInvoicesTotal" variable
+[INFO] -> 2024-03-22 15:10:14 -> The total turnover of all invoices is recorded in the final statistics
+[INFO] -> 2024-03-22 15:10:14 -> A message was displayed on the console about which path the result was written to
+[INFO] -> 2024-03-22 15:10:14 -> The variable "ordersTotal" is declared and initialized
+[INFO] -> 2024-03-22 15:10:14 -> The variable "total" is declared and initialized
+[INFO] -> 2024-03-22 15:10:14 -> Checks have been passed to see if the session exists and is alive. A message was displayed on the console asking you to enter the path to the folder with orders
+[INFO] -> 2024-03-22 15:10:21 -> Entered the path to the folder with orders
+[INFO] -> 2024-03-22 15:10:21 -> A collection of strings of the "ArrayList<>" type has been created to store processed information from valid files in the folder with orders
+[INFO] -> 2024-03-22 15:10:21 -> A folder "invalidOrdersFiles" has been created in the "invalid_file" folder to store invalid order files
+[INFO] -> 2024-03-22 15:10:21 -> Checks have been made to see if the files exist in the "orders" folder and if they are actually files
+[INFO] -> 2024-03-22 15:10:21 -> All files have been checked for validity
+[INFO] -> 2024-03-22 15:10:21 -> Information has been read from valid files and added to the "textFilesContent" collection
+[INFO] -> 2024-03-22 15:10:21 -> Checks have been made to see if the files exist in the "orders" folder and if they are actually files
+[INFO] -> 2024-03-22 15:10:21 -> All files have been checked for validity
+[INFO] -> 2024-03-22 15:10:21 -> Information has been read from valid files and added to the "textFilesContent" collection
+[INFO] -> 2024-03-22 15:10:21 -> Checks have been made to see if the files exist in the "orders" folder and if they are actually files
+[INFO] -> 2024-03-22 15:10:21 -> All files have been checked for validity
+[INFO] -> 2024-03-22 15:10:21 -> Information has been read from valid files and added to the "textFilesContent" collection
+[INFO] -> 2024-03-22 15:10:21 -> Checks have been made to see if the files exist in the "orders" folder and if they are actually files
+[INFO] -> 2024-03-22 15:10:21 -> All files have been checked for validity
+[INFO] -> 2024-03-22 15:10:21 -> Information has been read from valid files and added to the "textFilesContent" collection
+[INFO] -> 2024-03-22 15:10:21 -> Checks have been made to see if the files exist in the "orders" folder and if they are actually files
+[INFO] -> 2024-03-22 15:10:21 -> All files have been checked for validity
+[INFO] -> 2024-03-22 15:10:21 -> Information has been read from valid files and added to the "textFilesContent" collection
+[INFO] -> 2024-03-22 15:10:21 -> Checks have been made to see if the files exist in the "orders" folder and if they are actually files
+[INFO] -> 2024-03-22 15:10:21 -> All files have been checked for validity
+[INFO] -> 2024-03-22 15:10:21 -> Information has been read from valid files and added to the "textFilesContent" collection
+[INFO] -> 2024-03-22 15:10:21 -> Checks have been made to see if the files exist in the "orders" folder and if they are actually files
+[INFO] -> 2024-03-22 15:10:21 -> All files have been checked for validity
+[INFO] -> 2024-03-22 15:10:21 -> Information has been read from valid files and added to the "textFilesContent" collection
+[INFO] -> 2024-03-22 15:10:21 -> Checks have been made to see if the files exist in the "orders" folder and if they are actually files
+[INFO] -> 2024-03-22 15:10:21 -> All files have been checked for validity
+[INFO] -> 2024-03-22 15:10:21 -> Information has been read from valid files and added to the "textFilesContent" collection
+[INFO] -> 2024-03-22 15:10:21 -> Checks have been made to see if the files exist in the "orders" folder and if they are actually files
+[INFO] -> 2024-03-22 15:10:21 -> All files have been checked for validity
+[INFO] -> 2024-03-22 15:10:21 -> Information has been read from valid files and added to the "textFilesContent" collection
+[INFO] -> 2024-03-22 15:10:21 -> Checks have been made to see if the files exist in the "orders" folder and if they are actually files
+[INFO] -> 2024-03-22 15:10:21 -> All files have been checked for validity
+[INFO] -> 2024-03-22 15:10:21 -> Information has been read from valid files and added to the "textFilesContent" collection
+[INFO] -> 2024-03-22 15:10:21 -> Checks have been made to see if the files exist in the "orders" folder and if they are actually files
+[INFO] -> 2024-03-22 15:10:21 -> All files have been checked for validity
+[INFO] -> 2024-03-22 15:10:21 -> Information has been read from valid files and added to the "textFilesContent" collection
+[INFO] -> 2024-03-22 15:10:21 -> Checks have been made to see if the files exist in the "orders" folder and if they are actually files
+[INFO] -> 2024-03-22 15:10:21 -> All files have been checked for validity
+[INFO] -> 2024-03-22 15:10:21 -> Information has been read from valid files and added to the "textFilesContent" collection
+[INFO] -> 2024-03-22 15:10:21 -> Checks have been made to see if the files exist in the "orders" folder and if they are actually files
+[INFO] -> 2024-03-22 15:10:21 -> All files have been checked for validity
+[INFO] -> 2024-03-22 15:10:21 -> Information has been read from valid files and added to the "textFilesContent" collection
+[INFO] -> 2024-03-22 15:10:21 -> Checks have been made to see if the files exist in the "orders" folder and if they are actually files
+[INFO] -> 2024-03-22 15:10:21 -> All files have been checked for validity
+[INFO] -> 2024-03-22 15:10:21 -> Information has been read from valid files and added to the "textFilesContent" collection
+[INFO] -> 2024-03-22 15:10:21 -> An object of the "Pattern" class has been created to compose a regular expression
+[INFO] -> 2024-03-22 15:10:21 -> The total amount for each valid file from the folder with invoices was taken and added together and recorded in the "combinedInvoicesTotal" variable
+[INFO] -> 2024-03-22 15:10:21 -> The total turnover of all orders is recorded in the final statistics
+[INFO] -> 2024-03-22 15:10:21 -> A message was displayed on the console about which path the result was written to
+[INFO] -> 2024-03-22 15:10:21 -> The total total turnover for 2023 for all valid types of financial documents is recorded in the final statistics
+[INFO] -> 2024-03-22 15:10:21 -> Called method "writeFileProcess" with input parameter "session". The method is needed to call the "doChecksFileProcess", "doInvoicesFileProcess" and "doOrdersFileProcess" methods (all have a common input parameter - session). The total turnover for 2023 for all types of files was calculated and recorded in the final statistics
+[INFO] -> 2024-03-22 15:10:21 -> A message was displayed on the console about the end of the program and the end of the session
+[INFO] -> 2024-03-22 15:10:21 -> Program execution is finished
+[INFO] -> 2024-03-22 15:10:21 -> Session ended
